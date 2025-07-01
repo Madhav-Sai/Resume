@@ -1,0 +1,24 @@
+# Use cases regarding Router as Firewall 
+
+1. No Threat Intelligence or Signature-Based Blocking 
+2. Url or Web filtering 
+3. No vpn ( functionlaites) 
+4. IPS/IDS absence 
+5. Logs()
+6. Non-Compliance 
+7. Network segmentation 
+8. Performance 
+
+2. Routers Can't Replace Enterprise-Grade Controls
+Feature	Router	Firewall
+Basic packet filtering	
+Stateful inspection	
+Layer 7 Application Filtering
+IDS/IPS capabilities	
+Web Filtering / DLP	
+SSL Decryption	
+VPN Termination with Full Control	
+Threat Intelligence Integration	
+Logging, SIEM Integration	
+
+
